@@ -1,5 +1,5 @@
 /*
-	Kaitoa
+	Gerald Lee Jordan
 */
 
 (function($) {
