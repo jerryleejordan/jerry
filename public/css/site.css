@@ -189,7 +189,8 @@ a.tooltip:hover .tooltiptext {
 
 .ia-button {
   box-shadow: none !important;
-  font-family: "Sigmar One", sans-serif;
+  font-family: "Sigmar One", sans-serif !important;
+  color: #4267B2 !important;  
 }
 
 .content h1, h2, h3, h4, h5, h6 {
